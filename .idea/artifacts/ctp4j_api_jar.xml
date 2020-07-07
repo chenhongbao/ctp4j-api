@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact build-on-make="true" name="ctp4j-api:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts</output-path>
+    <root id="root">
+      <element id="archive" name="ctp4j-api.jar">
+        <element id="module-output" name="ctp4j-api" />
+        <element id="module-source" name="ctp4j-api" />
+      </element>
+    </root>
+  </artifact>
+</component>

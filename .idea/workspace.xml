@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6fb7f252-98a1-49c1-ab9d-3d2485063860" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/ctp4j_api_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ctp4j-api.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/nabiki/ctp4j/exception/ErrorCodes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/nabiki/ctp4j/internal/FrontConnect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/nabiki/ctp4j/internal/FrontDisconnect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/nabiki/ctp4j/internal/RspAuthenticate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/nabiki/ctp4j/internal/RspError.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/nabiki/ctp4j/internal/RspUserLogin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/nabiki/ctp4j/internal/RspUserLogout.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/nabiki/ctp4j/jni/flag/TThostFtdcActionFlagType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/nabiki/ctp4j/jni/flag/TThostFtdcCombHedgeFlagType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/nabiki/ctp4j/jni/flag/TThostFtdcCombOffsetFlagType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/nabiki/ctp4j/jni/flag/TThostFtdcContingentConditionType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/nabiki/ctp4j/jni/flag/TThostFtdcDirectionType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/nabiki/ctp4j/jni/flag/TThostFtdcErrorCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/nabiki/ctp4j/jni/flag/TThostFtdcErrorMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/nabiki/ctp4j/jni/flag/TThostFtdcForceCloseReasonType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/nabiki/ctp4j/jni/flag/TThostFtdcOrderPriceTypeType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/nabiki/ctp4j/jni/flag/TThostFtdcOrderStatusType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/nabiki/ctp4j/jni/flag/TThostFtdcOrderSubmitStatusType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/nabiki/ctp4j/jni/flag/TThostFtdcProductClassType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/nabiki/ctp4j/jni/flag/TThostFtdcTimeConditionType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/nabiki/ctp4j/jni/flag/TThostFtdcVolumeConditionType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/nabiki/ctp4j/jni/flag/ThostTeResumeType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/nabiki/ctp4j/jni/struct/CThostFtdcConnect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/nabiki/ctp4j/jni/struct/CThostFtdcDepthMarketDataField.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/nabiki/ctp4j/jni/struct/CThostFtdcDisconnect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/nabiki/ctp4j/jni/struct/CThostFtdcInputOrderActionField.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/nabiki/ctp4j/jni/struct/CThostFtdcInputOrderField.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/nabiki/ctp4j/jni/struct/CThostFtdcInstrumentCommissionRateField.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/nabiki/ctp4j/jni/struct/CThostFtdcInstrumentField.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/nabiki/ctp4j/jni/struct/CThostFtdcInstrumentMarginRateField.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/nabiki/ctp4j/jni/struct/CThostFtdcInvestorPositionDetailField.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/nabiki/ctp4j/jni/struct/CThostFtdcInvestorPositionField.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/nabiki/ctp4j/jni/struct/CThostFtdcOrderActionField.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/nabiki/ctp4j/jni/struct/CThostFtdcOrderField.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/nabiki/ctp4j/jni/struct/CThostFtdcQryInstrumentCommissionRateField.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/nabiki/ctp4j/jni/struct/CThostFtdcQryInstrumentField.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/nabiki/ctp4j/jni/struct/CThostFtdcQryInstrumentMarginRateField.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/nabiki/ctp4j/jni/struct/CThostFtdcQryInvestorPositionDetailField.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/nabiki/ctp4j/jni/struct/CThostFtdcQryInvestorPositionField.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/nabiki/ctp4j/jni/struct/CThostFtdcQryTradingAccountField.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/nabiki/ctp4j/jni/struct/CThostFtdcReqAuthenticateField.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/nabiki/ctp4j/jni/struct/CThostFtdcReqUserLoginField.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/nabiki/ctp4j/jni/struct/CThostFtdcRspAuthenticateField.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/nabiki/ctp4j/jni/struct/CThostFtdcRspInfoField.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/nabiki/ctp4j/jni/struct/CThostFtdcRspUserLoginField.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/nabiki/ctp4j/jni/struct/CThostFtdcSettlementInfoConfirmField.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/nabiki/ctp4j/jni/struct/CThostFtdcSpecificInstrumentField.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/nabiki/ctp4j/jni/struct/CThostFtdcTradeField.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/nabiki/ctp4j/jni/struct/CThostFtdcTradingAccountField.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/nabiki/ctp4j/jni/struct/CThostFtdcUserLogoutField.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/nabiki/ctp4j/jni/struct/TThostFtdcPosiDirectionType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/nabiki/ctp4j/md/CThostFtdcMdApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/nabiki/ctp4j/md/CThostFtdcMdSpi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/nabiki/ctp4j/md/internal/CThostFtdcMdApiImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/nabiki/ctp4j/trader/CThostFtdcTraderApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/nabiki/ctp4j/trader/CThostFtdcTraderSpi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/nabiki/ctp4j/trader/internal/CThostFtdcTraderApiImpl.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1eLBIiizF3wkQaQGRYdcZJIxC6J" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="Debugger_Data_Views_Java" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6fb7f252-98a1-49c1-ab9d-3d2485063860" name="Default Changelist" comment="" />
+      <created>1594090914132</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594090914132</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1028" y="281" key="FileChooserDialogImpl" timestamp="1594093288147">
+      <screen x="0" y="0" width="2498" height="1080" />
+    </state>
+    <state x="1028" y="281" key="FileChooserDialogImpl/0.0.2498.1080/-1378.0.1378.900@0.0.2498.1080" timestamp="1594093288147" />
+    <state x="729" y="114" key="SettingsEditor" timestamp="1594093255825">
+      <screen x="0" y="0" width="2498" height="1080" />
+    </state>
+    <state x="729" y="114" key="SettingsEditor/0.0.2498.1080/-1378.0.1378.900@0.0.2498.1080" timestamp="1594093255825" />
+    <state x="623" y="150" key="new project wizard" timestamp="1594093298321">
+      <screen x="0" y="0" width="2498" height="1080" />
+    </state>
+    <state x="623" y="150" key="new project wizard/0.0.2498.1080/-1378.0.1378.900@0.0.2498.1080" timestamp="1594093298321" />
+  </component>
+</project>
